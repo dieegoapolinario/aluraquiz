@@ -1,0 +1,143 @@
+{
+  "bg": "https://articles.gamerheadquarters.com/images/top10/movies/10.jpg",
+  "title": "Titulo",
+  "description": "Descrição",
+  "loading": "https://legendsofwindemere.files.wordpress.com/2018/11/7-triforce.gif?w=640",
+  "questions": [
+    {
+      "image": "https://i.gifer.com/45G.gif",
+      "title": "Super Nintendo",
+      "description": "Em que ano foi lançado The Legend of Zelda: A Link to the Past?",
+      "answer": 1,
+      "alternatives": [
+        "1990",
+        "1991",
+        "1989",
+        "1988"
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/77ps.gif",
+      "title": "Nintendo 64",
+      "description": "Qual foi a data de lançamento do The Legend of Zelda: Ocarina of Time?",
+      "answer": 2,
+      "alternatives": [
+        "21 de novembro de 1999",
+        "30 de novembro de 1999",
+        "21 de novembro de 1998",
+        "30 de novembro de 1998"
+      ]
+    },
+    {
+      "image": "https://2.bp.blogspot.com/-puQJyG3louI/UbSdVqHwiMI/AAAAAAAACTU/duyc9VtDUCA/s1600/Creation_of_Hyrule.png",
+      "title": "Universo Zelda",
+      "description": "Qual o nome das três deusas que criaram a Triforce?",
+      "answer": 0,
+      "alternatives": [
+        "Din, Nayru, Farore",
+        "Mind, Nayru, Ganondorf",
+        "Eldin, Faron, Lanayru",
+        "Beth, Bo, Colin"
+      ]
+    },
+    {
+      "image": "https://media.tenor.com/images/0dbd898ff3c7b634cb96f7221d04f357/tenor.gif",
+      "title": "Universo Zelda",
+      "description": "Para preservar a paz e ordem, a Triforce foi entregue a quem?",
+      "answer": 2,
+      "alternatives": [
+        "Zelda",
+        "Link",
+        "Hylia",
+        "Ilia"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/4ac6d2d57b079db836fc13d0661163f2/tenor.gif?itemid=5833492",
+      "title": "Universo Zelda",
+      "description": "Qual o nome dos três triângulos divinos da Triforce?",
+      "answer": 1,
+      "alternatives": [
+        "Intelligence, Power, Speed",
+        "Power, Wisdom, Courage",
+        "Intelligence, Courage, Imortality",
+        "Wisdom, Imortality, Speed"
+      ]
+    },
+    {
+      "image": "https://www.acasadocogumelo.com/wp-content/uploads/2013/08/first-link-triforce.gif",
+      "title": "Nintendinho (NES)",
+      "description": "Em The Legend of Zelda (Primeiro jogo da série), princesa Zelda quebrou a Triforce of ... em oito partes. Qual parte ela quebrou?",
+      "answer": 3,
+      "alternatives": [
+        "Power",
+        "Courage",
+        "Intelligence",
+        "Wisdom"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/365c49bf831bf3be5e2814724db9fd33/tenor.gif?itemid=15708469",
+      "title": "Nintendo Wii U / Nintendo Switch",
+      "description": "Em The Legend of Zelda: Breath of the Wild, Link é seriamente ferido e Zelda leva ele para um local seguro. Link acorda depois de ...",
+      "answer": 1,
+      "alternatives": [
+        "50 anos",
+        "100 anos",
+        "150 anos",
+        "200 anos"
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/originals/d3/7c/54/d37c54c46a9454a51b9310cc6c8d768e.gif",
+      "title": "Nintendo 64",
+      "description": "Em The Legend of Zelda: Majora's Mask, a lua está prestes a cair e destruir tudo. Quantas horas o Link tem para recuperar a máscara e evitar o desastre?",
+      "answer": 0,
+      "alternatives": [
+        "72",
+        "62",
+        "52",
+        "82"
+      ]
+    },
+    {
+      "image": "https://pa1.narvii.com/6304/724198ca71bf4d4d1b78577b61fcaa516eacaad2_hq.gif",
+      "title": "Nintendo 64",
+      "description": "Em The Legend of Zelda: Majora's Mask, qual o nome do vilão que rouba a 'ocarina' do Link?",
+      "answer": 2,
+      "alternatives": [
+        "Gor Amoto",
+        "Dr. Borville",
+        "Skull Kid",
+        "King Bulbin"
+      ]
+    },
+    {
+      "image": "https://goombastomp.com/wp-content/uploads/2020/08/Links-Awakening-gif-5.gif",
+      "title": "GameBoy",
+      "description": "Em The Legend of Zelda: Link Awakening, Link precisa recuperar os instrumentos para acordar o Peixe do Vento. Quantos instrumentos são?",
+      "answer": 3,
+      "alternatives": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-marvel.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "colors":{
+      "primary": "#4CAF50",
+      "secondary": "#FF9800",
+      "mainBg": "#1C1814",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
